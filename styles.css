@@ -35,6 +35,7 @@
     height: 100%;
     width: 100%;
     z-index: -1;   
+<<<<<<< HEAD
     object-fit: cover;
 }
 
@@ -96,4 +97,3 @@ section{
 .bg3{
     background-image: url(images/sport-3.jpg);
 }
-
