@@ -1,6 +1,6 @@
 # Parallax Project
 
-Hello there! In this project, I have developed a website demonstrating the parallax effect which includes a fixed image in the background and a fixed image on the foreground which are kept one over another to demonstrate a 3-D effect. I
+Hello there! In this project, I have developed a website demonstrating the parallax effect which includes a fixed image in the background and a fixed image on the foreground which are kept one over another to demonstrate a 3-D effect.
 
 Basically, the Scrolling effect is where background images move at a different speed than the foreground images creating a 3-D like view for the end user.
 
